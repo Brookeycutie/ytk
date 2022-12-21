@@ -21,23 +21,24 @@
               Lagos, Nigeria
             </p>
             <p class="mb-2">
+            <a href="tel:+2348101963400" class="text-white">
               <i class="fa fa-phone-alt me-3"></i>+234 810 196 3400
-            </p>
+            </a></p>
             <p class="mb-2">
-              <i class="fa fa-envelope me-3"></i>yourtechiekids@gmail.com
-            </p>
+              <a class="text-white" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yourtechiekids@gmail.com&body=Hello YourTechieKids"><i class="fa fa-envelope me-3"></i>yourtechiekids@gmail.com
+              </a></p>
             <div class="d-flex pt-2">
-              <a class="btn btn-outline-light btn-social" href=""
-                ><i class="fab fa-twitter"></i
+              <a class="btn btn-outline-light btn-social" target="_blank" href="https://wa.me/+2348101963400"
+                ><i class="fab fa-whatsapp"></i
               ></a>
-              <a class="btn btn-outline-light btn-social" href=""
+              <a class="btn btn-outline-light btn-social" target="_blank" href="https://www.facebook.com/yourtechiekids/"
                 ><i class="fab fa-facebook-f"></i
               ></a>
-              <a class="btn btn-outline-light btn-social" href=""
-                ><i class="fab fa-youtube"></i
+              <a class="btn btn-outline-light btn-social" target="_blank" href="https://www.instagram.com/yourtechiekids"
+                ><i class="fab fa-instagram"></i
               ></a>
-              <a class="btn btn-outline-light btn-social" href=""
-                ><i class="fab fa-linkedin-in"></i
+              <a class="btn btn-outline-light btn-social" target="_blank" href=""
+                ><i class="fab fa-twitter"></i
               ></a>
             </div>
           </div>
@@ -115,7 +116,7 @@
         <div class="copyright">
           <div class="row">
             <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-              &copy; <a class="border-bottom" href="#">Your Techie Kids</a>, All
+              &copy; <a class="border-bottom" href="yourtechiekids.com">Your Techie Kids</a>, All
               Right Reserved.
 
               <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
