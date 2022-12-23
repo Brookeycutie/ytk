@@ -38,8 +38,7 @@
                 <i class="fas fa-3x fa-code text-warning mb-4"></i>
                 <h5 class="mb-3">Programming</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  We offer programming skills from beginner level to advanced level
                 </p>
               </div>
             </div>
@@ -50,8 +49,7 @@
                 <i class="fas fa-3x fa-sitemap text-warning mb-4"></i>
                 <h5 class="mb-3">Algorithms</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                They will learn the process or set of rules to be followed in problem-solving operations, understood by a computer.
                 </p>
               </div>
             </div>
@@ -62,8 +60,7 @@
                 <i class="fab fa-3x fa-centercode text-warning mb-4"></i>
                 <h5 class="mb-3">Designing</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  This will help them learn drawing techniques and their own aesthetics. Creativity has no bound in this field.
                 </p>
               </div>
             </div>
@@ -74,8 +71,7 @@
                 <i class="fas fa-3x fa-user-secret text-warning mb-4"></i>
                 <h5 class="mb-3">Animating</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                This field helps to positively impact kids of all ages and help them develop different skills, such as problem-solving, creativity, analytical and critical thinking, and verbal skills
                 </p>
               </div>
             </div>
@@ -105,39 +101,39 @@
             </div>
             <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
               <h6 class="section-title bg-white text-start text-warning pe-3">
-                Key Coding Concepts
+                Why Learn to Code
               </h6>
               <h1 class="mb-4">Learn to Code</h1>
               <p class="mb-4">
-                Yourtechie kids are not just technology inclined but are smart at calculating and solving math problems.
+              Coding is just like a language and do not forget childhood is the best time to learn a language.
               </p>
               <p class="mb-4">
-                We work to make your techie kids capable of doing works expected at their grade level in accordance with their ages. We ensure your techie kids do not just learn but have fun while learning. <br> <br> We have different options you can choose that suits your schedule.
+              The world is developing which makes coding an extremely useful skill to possess. There are lots of businesses who rely on computer code.<br> <br> We work to make your techie kids capable of acquiring all these skills to be the best they can be.<br> <br> Here are Benefits of Coding
               </p>
               <div class="row gy-2 gx-4 mb-4">
                 <div class="col-sm-6">
                   <p class="mb-0">
-                    <i class="fa fa-arrow-right text-warning me-2"></i>Group Live Classes
+                    <i class="fa fa-arrow-right text-warning me-2"></i>Coding helps build high self esteem
                   </p>
                 </div>
                 <div class="col-sm-6">
                   <p class="mb-0">
-                    <i class="fa fa-arrow-right text-warning me-2"></i>Video Courses
+                    <i class="fa fa-arrow-right text-warning me-2"></i>Coding helps with creativity
                   </p>
                 </div>
                 <div class="col-sm-6">
                   <p class="mb-0">
                     <i class="fa fa-arrow-right text-warning me-2"></i
-                    >One-On-One Classes
+                    >Coding aids rational thinking
                   </p>
                 </div>
                 <div class="col-sm-6">
                   <p class="mb-0">
-                    <i class="fa fa-arrow-right text-warning me-2"></i>Study Packs
+                    <i class="fa fa-arrow-right text-warning me-2"></i>Coding is the future
                   </p>
                 </div>
               </div>
-              <a class="btn btn-warning py-3 px-5 mt-2" href="">Make More Enquiry</a>
+              <a class="btn btn-warning py-3 px-5 mt-2" href="contact">Make More Enquiry</a>
             </div>
           </div>
         </div>

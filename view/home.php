@@ -25,15 +25,13 @@
                   <h5
                     class="text-warning text-uppercase mb-3 animated slideInDown"
                   >
-                    Best Contents to Create Techie Kids
+                    Best Guides to Creating Techie Kids
                   </h5>
                   <h1 class="display-3 text-white animated slideInDown">
                     Build Confident and Independent Kids
                   </h1>
                   <p class="fs-5 text-white mb-4 pb-2">
-                    Vero elitr justo clita lorem. Ipsum dolor at sed stet sit
-                    diam no. Kasd rebum ipsum et diam justo clita et kasd rebum
-                    sea sanctus eirmod elitr.
+                    Let us prepare children for the responsibilities that come with school, extracurricular activities, work and life as a whole.
                   </p>
                   <a
                     href="about"
@@ -68,9 +66,7 @@
                     Get Your Kids Skilled From Your Home
                   </h1>
                   <p class="fs-5 text-white mb-4 pb-2">
-                    Vero elitr justo clita lorem. Ipsum dolor at sed stet sit
-                    diam no. Kasd rebum ipsum et diam justo clita et kasd rebum
-                    sea sanctus eirmod elitr.
+                    Our video lessons encourage children to be independent and computer saavy. <br> Here they will learn to use new tech skills and become more proficient with technology.
                   </p>
                   <a
                     href="about"
@@ -91,62 +87,9 @@
     </div>
     <!-- Carousel End -->
 
-    <!-- Service Start -->
-    <div class="container-xxl py-5">
-      <div class="container">
-        <div class="row g-4">
-          <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="service-item text-center pt-3">
-              <div class="p-4">
-                <i class="fa fa-3x fa-graduation-cap text-warning mb-4"></i>
-                <h5 class="mb-3">Skilled Instructors</h5>
-                <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div class="service-item text-center pt-3">
-              <div class="p-4">
-                <i class="fa fa-3x fa-globe text-warning mb-4"></i>
-                <h5 class="mb-3">Online Classes</h5>
-                <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-            <div class="service-item text-center pt-3">
-              <div class="p-4">
-                <i class="fa fa-3x fa-home text-warning mb-4"></i>
-                <h5 class="mb-3">Home Projects</h5>
-                <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
-            <div class="service-item text-center pt-3">
-              <div class="p-4">
-                <i class="fa fa-3x fa-book-open text-warning mb-4"></i>
-                <h5 class="mb-3">Book Library</h5>
-                <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- Service End -->
+    <?php
+      include "layouts/service.php";
+        ?>
 
     <!-- About Start -->
     <div class="container-xxl py-5">
@@ -170,23 +113,19 @@
             <h6 class="section-title bg-white text-start text-warning pe-3">
               About Us
             </h6>
-            <h1 class="mb-4">Welcome to eLEARNING</h1>
+            <h1 class="mb-4">Welcome to Your Techie Kids Arena</h1>
             <p class="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos. Clita erat ipsum et lorem et sit.
+              We believe every child is a genius and it takes the right approach to ignite it.
             </p>
             <p class="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-              lorem sit clita duo justo magna dolore erat amet
+              At Your Techie Kids we ensure learning is fun for our learners. That way learning to them become natural and not stressful because they will be enjoying what they are doing.
+            </p>
+            
+            <p class="mb-4">
+              We guarantee the best experience and also profer several options that are productive for you to choose.
             </p>
             <div class="row gy-2 gx-4 mb-4">
-              <div class="col-sm-6">
-                <p class="mb-0">
-                  <i class="fa fa-arrow-right text-warning me-2"></i>Skilled
-                  Instructors
-                </p>
-              </div>
+      
               <div class="col-sm-6">
                 <p class="mb-0">
                   <i class="fa fa-arrow-right text-warning me-2"></i>Online
@@ -196,25 +135,23 @@
               <div class="col-sm-6">
                 <p class="mb-0">
                   <i class="fa fa-arrow-right text-warning me-2"></i
-                  >International Certificate
+                  >Group Classes
                 </p>
               </div>
               <div class="col-sm-6">
                 <p class="mb-0">
-                  <i class="fa fa-arrow-right text-warning me-2"></i>Skilled
-                  Instructors
+                  <i class="fa fa-arrow-right text-warning me-2"></i>Video Courses
                 </p>
               </div>
               <div class="col-sm-6">
                 <p class="mb-0">
-                  <i class="fa fa-arrow-right text-warning me-2"></i>Online
-                  Classes
+                  <i class="fa fa-arrow-right text-warning me-2"></i>Books Library
                 </p>
               </div>
               <div class="col-sm-6">
                 <p class="mb-0">
                   <i class="fa fa-arrow-right text-warning me-2"></i
-                  >International Certificate
+                  >Study Packs
                 </p>
               </div>
             </div>
@@ -354,7 +291,7 @@
                   ><i class="fa fa-clock text-warning me-2"></i>3 months</small
                 >
                 <small class="flex-fill text-center py-2"
-                  ><i class="fa fa-user text-warning me-2"></i>Self Pace</small
+                  ><i class="fa fa-user text-warning me-2"></i>Virtual</small
                 >
               </div>
             </div>
@@ -402,7 +339,7 @@
                   ><i class="fa fa-clock text-warningwarning me-2"></i>3 months</small
                 >
                 <small class="flex-fill text-center py-2"
-                  ><i class="fa fa-user text-warning me-2"></i>Tech Learn</small
+                  ><i class="fa fa-user text-warning me-2"></i>Virtual</small
                 >
               </div>
             </div>
@@ -450,7 +387,7 @@
                   ><i class="fa fa-clock text-warning me-2"></i>Monthly</small
                 >
                 <small class="flex-fill text-center py-2"
-                  ><i class="fa fa-user text-warning me-2"></i>Practicals</small
+                  ><i class="fa fa-user text-warning me-2"></i>Virtual</small
                 >
               </div>
             </div>
@@ -465,7 +402,7 @@
       include "layouts/team.php";
         ?>
 
-    <!-- Testimonial Start -->
+    <!-- Testimonial Start 
     <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
       <div class="container">
         <div class="text-center">
@@ -538,8 +475,8 @@
         </div>
       </div>
     </div>
-    <!-- Testimonial End -->
-
+   -->
+   <!-- Testimonial End -->
     <?php
       include "layouts/footer.php";
         ?>
